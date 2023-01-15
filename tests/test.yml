@@ -1,0 +1,4 @@
+---
+- hosts: testpi
+  roles:
+    - role: '../../.'
